@@ -1,0 +1,8 @@
+Brasil 000
+Russia 001
+China 010
+Africa 011
+Japao 100
+Australia 101
+Espanha 110
+Mexico 111
